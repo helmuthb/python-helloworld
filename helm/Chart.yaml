@@ -1,0 +1,9 @@
+apiVersion: v1
+name: nginx-deployment
+description: Install an nginx server
+keywords:
+- nginx
+version: 1.0.0
+maintainers:
+- name: helmuthb 
+  email: helmuth@breitenfellner.at
